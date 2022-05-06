@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/my-site/static/css/main.64e6e31e.css",
+    "main.js": "/my-site/static/js/main.c32f3624.js",
+    "static/media/cv-ares-romain-N1.pdf": "/my-site/static/media/cv-ares-romain-N1.ff747d2000abb72fa1f3.pdf",
+    "static/media/php.webp": "/my-site/static/media/php.f3948ab5385af9a4f099.webp",
+    "static/media/new-logo-AR-min-trans.webp": "/my-site/static/media/new-logo-AR-min-trans.8a5bc1355d1f0fed5a34.webp",
+    "static/media/stack-hero-min.webp": "/my-site/static/media/stack-hero-min.a406201aeb662e98e399.webp",
+    "static/media/ohmyfood.webp": "/my-site/static/media/ohmyfood.2b95adb0b0c6a22a7985.webp",
+    "static/media/react.webp": "/my-site/static/media/react.130f12e10740cb8852c9.webp",
+    "static/media/sass.webp": "/my-site/static/media/sass.c9d5b8e54143827b1287.webp",
+    "static/media/mysql.webp": "/my-site/static/media/mysql.39a797e416bfdfb1ea19.webp",
+    "static/media/kanap.webp": "/my-site/static/media/kanap.05401ec4890c5dfc7f7b.webp",
+    "static/media/Booki.webp": "/my-site/static/media/Booki.4cd1a6d35d5c95b4b300.webp",
+    "static/media/node.webp": "/my-site/static/media/node.8ba5e6cce55bf8da5050.webp",
+    "static/media/groupomania3.webp": "/my-site/static/media/groupomania3.6194b96e187d74722d18.webp",
+    "static/media/mongodb.webp": "/my-site/static/media/mongodb.5025dbf3a1fe01815461.webp",
+    "static/media/lachouette.webp": "/my-site/static/media/lachouette.4e2d83ff006103c54792.webp",
+    "static/media/css.webp": "/my-site/static/media/css.ff004756a24f9fe075da.webp",
+    "static/media/js.webp": "/my-site/static/media/js.053698f966caedae90c0.webp",
+    "static/media/html.webp": "/my-site/static/media/html.64eae0da43ed735aead3.webp",
+    "static/media/piquante.webp": "/my-site/static/media/piquante.8ecd3c17522538a08880.webp",
+    "index.html": "/my-site/index.html",
+    "main.64e6e31e.css.map": "/my-site/static/css/main.64e6e31e.css.map",
+    "main.c32f3624.js.map": "/my-site/static/js/main.c32f3624.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64e6e31e.css",
+    "static/js/main.c32f3624.js"
+  ]
+}
