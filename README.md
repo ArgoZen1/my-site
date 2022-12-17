@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/95536872/208217416-b3fdc8d9-849c-4b0e-a1da-9354461a6b8b.png)
+![image](https://user-images.githubusercontent.com/95536872/208217435-0a552f05-83fc-4b38-a8e2-ad972377263e.png)
 
 
 # Mon portfolio entierement fait en react, bien que je le chois d'utiliser react ne soit pas judicieux pour un site vitrinen jai trouve ça très amusant
